@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @TwittleFingers
-- 👀 I’m interested in PYthon Programming, Visual Basic .Net Framework, UiPath Robotic Process Automation.
+- 👀 I’m interested in Python Programming, Visual Basic .Net Framework, and UiPath Robotic Process Automation.
+- 👀 I am also interested in Web design, HTML, CSS, and Powershell Scripting.
 - 🌱 I’m currently learning Visual Basic .Net
 - 💞️ I’m looking to collaborate on all the above.
 - 📫 How to reach me ...
